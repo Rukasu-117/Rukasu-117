@@ -4,4 +4,4 @@ Bem-vindo ao meu perfil! Meu nome é Lucas Andrade e tenho 26 anos. Sou estudant
 
 Espero poder compartilhar meu aprendizado com todos que visitarem este perfil. Aqui, você encontrará um pouco de cada um dos meus estudos, incluindo desenvolvimento de jogos. Agradeço sua visita e, se puder, conecte-se comigo no LinkedIn. TMJ!
 
-[[<a href="https://app.rocketseat.com.br/me/lucas-ferreira-de-andrade-1570587252"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucas-ferreira-de-andrade-1570587252&type=card" width="280" alt="Lucas Ferreira de Andrade's Rocket ID"/></a>](https://app.rocketseat.com.br/rocketid/lucas-ferreira-de-andrade-1570587252)](https://app.rocketseat.com.br/rocketid/lucas-ferreira-de-andrade-1570587252)
+<a href="https://app.rocketseat.com.br/me/lucas-ferreira-de-andrade-1570587252"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucas-ferreira-de-andrade-1570587252&type=card" width="280" alt="Lucas Ferreira de Andrade's Rocket ID"/></a>
